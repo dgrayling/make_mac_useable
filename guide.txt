@@ -1,0 +1,26 @@
+touch ~/.zshenv
+touch ~/.zshrc
+
+Invert scroll:
+https://pilotmoon.com/scrollreverser/
+
+Switch fn and control:
+https://howchoo.com/mac/mac-remap-fn-to-ctrl
+external keyboard: control (mac) -> set to "command"
+
+Switch @ and "
+https://apple.stackexchange.com/questions/335400/how-switch-mac-uk-pc-keyboard-layout-backslash-and-backtick-to-match-normal
+You have to hold down "shift" when adding the british keyboard and then select it in the top right
+
+
+Rearrange display:
+System preferences -> display
+
+Make backspace faster:
+https://superuser.com/questions/677665/increase-the-speed-at-which-the-delete-key-deletes-things-on-osx
+
+Add vs code to path for realz:
+https://stackoverflow.com/questions/29963617/how-to-call-vs-code-editor-from-terminal-command-line/33831403#33831403
+
+Make docker works ffs
+sudo chmod 666 /var/run/docker.sock
