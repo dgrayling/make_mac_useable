@@ -20,8 +20,8 @@ System preferences -> display
 Make backspace faster:
 https://superuser.com/questions/677665/increase-the-speed-at-which-the-delete-key-deletes-things-on-osx
 
-Add vs code to path for realz:
+Add vs code to path:
 https://stackoverflow.com/questions/29963617/how-to-call-vs-code-editor-from-terminal-command-line/33831403#33831403
 
-Make docker works ffs
+Make docker work:
 sudo chmod 666 /var/run/docker.sock
