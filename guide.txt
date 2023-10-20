@@ -5,6 +5,7 @@ Invert scroll:
 https://pilotmoon.com/scrollreverser/
 
 Switch fn and control:
+https://support.apple.com/en-gb/guide/mac-help/mchlp1011/mac#:~:text=You%20can%20change%20the%20action,may%20need%20to%20scroll%20down.)&text=Click%20Keyboard%20Shortcuts%20on%20the,the%20list%20on%20the%20left.
 https://howchoo.com/mac/mac-remap-fn-to-ctrl
 external keyboard: control (mac) -> set to "command"
 
